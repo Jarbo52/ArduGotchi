@@ -7,3 +7,5 @@ Missing Arduboy librarys and ino files.
 Based on old school Tamagotchi. To win you just need to survive.
 
 Two path based child which grows and you can nurture.
+
+All sprites are 1-D hex arrays which are parsed using pre-hardcoded dimensions.
